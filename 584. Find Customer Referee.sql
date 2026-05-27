@@ -3,4 +3,5 @@
 --- 2. referee_id IS NULL -> This condition includes customers who do not have any referee assigned.
 --- The OR operator combines both conditions so the query returns.
   
+# Write your MySQL query statement below
 SELECT name FROM customer WHERE referee_id <> 2 OR referee_id IS NULL;
