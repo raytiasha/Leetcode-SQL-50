@@ -3,6 +3,6 @@
 --- LENGTH(content) > 15 -> This condition filters tweets where the content contains more than 15 characters.
 --- Only tweets satisfying this condition are included in the result.
 
-select tweet_id
-from Tweets
-where length(content) >15
+SELECT tweet_id
+FROM Tweets
+WHERE length(content) >15
