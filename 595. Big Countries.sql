@@ -3,6 +3,7 @@
 --- population >= 25000000 -> This condition selects countries whose population is at least 25 million.
 --- The OR operator ensures that a country is included if it satisfies either of the conditions.
 
+# Write your MySQL query statement below
 SELECT
     name, population, area
 FROM
