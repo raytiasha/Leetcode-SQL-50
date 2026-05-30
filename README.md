@@ -1,6 +1,6 @@
-## Leetcode-SQL-50
-
 This is a log of the LeetCode SQL questions I'm working through.
+
+## Leetcode-SQL-50
 
 | Description | Question | Solution |
 | --- | --- | --- |
