@@ -9,4 +9,4 @@
 | 1683. Invalid Tweets | [Q5](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [Answer](https://github.com/raytiasha/Leetcode-SQL-50/blob/main/1683.%20Invalid%20Tweets.sql)
 | 1378. Replace Employee ID With The Unique Identifier | [Q6](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [Answer](https://github.com/raytiasha/Leetcode-SQL-50/blob/main/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)
 | 1068. Product Sales Analysis I | [Q7](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Answer](https://github.com/raytiasha/Leetcode-SQL-50/blob/main/1068.%20Product%20Sales%20Analysis%20I.sql)
-| 1581. Customer Who Visited but Did Not Make Any Transactions | [Q8]() | [Answer]()
+| 1581. Customer Who Visited but Did Not Make Any Transactions | [Q8](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | [Answer]()
